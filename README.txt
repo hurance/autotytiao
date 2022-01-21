@@ -11,3 +11,4 @@ v0.1 #1.22
   https://tw511.com/a/01/37402.html
 4.修改路径
 os.system('adb pull /sdcard/01.png C:/Users/12531/Desktop/autotytiao')
+5.必须先开始游戏，才能运行工程
