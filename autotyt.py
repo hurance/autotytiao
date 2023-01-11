@@ -69,7 +69,7 @@ def get_point(event, x, y, flags, param):
 
 def start(target):
     #2.png作为模板图片，为脚部分。通过模板匹配，该函数返回脚坐标值
-    template = cv2.imread("2.png")
+    template = cv2.imread("3.png")
 
     theight, twidth = template.shape[:2]
 
